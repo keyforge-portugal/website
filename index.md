@@ -1,6 +1,8 @@
 #### Somos a comunidade portuguesa de KeyForge, um jogo de cartas com decks únicos, criado por Richard Garfield.
 
-#### Descobre mais sobre o [KeyForge](https://www.keyforgegame.com). Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c).
+#### Descobre mais sobre o [KeyForge](https://www.keyforgegame.com) e vem aprender a jogar connosco.
+
+#### Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c) e participa nos torneios.
 
 ## Conteúdos
 
@@ -39,10 +41,9 @@
 
 ### Oficiais
 
-<a href="https://ajogar.com"><img src="https://static.wixstatic.com/media/63c24c_42be84031e514b5aa7c8be13721e2653~mv2_d_3017_1579_s_2.png/v1/fill/w_1310,h_490,al_c,q_90,usm_0.66_1.00_0.01/logo-ajogar-white-bckg-01.webp" alt="AJogar Équeagenteseentende" width="300"/></a>
-Vila do Conde
+<a href="https://ajogar.com"><img src="https://static.wixstatic.com/media/63c24c_42be84031e514b5aa7c8be13721e2653~mv2_d_3017_1579_s_2.png/v1/fill/w_1310,h_490,al_c,q_90,usm_0.66_1.00_0.01/logo-ajogar-white-bckg-01.webp" alt="AJogar Équeagenteseentende" width="300" style="background: white; padding: 10px; border-radius: 5px"/></a><br/>(Vila do Conde)
 
 ### Venda apenas
 
-- [Divercentro](https://www.diver.pt), Coimbra
-- [Versus Gamecenter](https://versusgamecenter.pt), Lisboa
+- [Divercentro](https://www.diver.pt) (Coimbra)
+- [Versus Gamecenter](https://versusgamecenter.pt) (Lisboa)
