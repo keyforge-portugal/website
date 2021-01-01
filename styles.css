@@ -29,6 +29,25 @@ h2 {
   font-size: 18px;
 }
 
-.logo {
-  width: 160px;
+.container {
+  width: 800px;
+  max-width: 100%;
+  margin: 20px auto 60px;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+header {
+  display: flex;
+  vertical-align: middle;
+  margin-bottom: 40px;
+}
+
+header .logo {
+  height: 100px;
+}
+
+header .title {
+  margin-left: 20px;
+  vertical-align: middle;
 }

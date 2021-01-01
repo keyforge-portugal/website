@@ -6,12 +6,10 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
-    <link href="styles.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/styles.css" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
-    <link rel="icon" 
-      type="image/svg" 
-      href="{{ site.baseurl }}/images/logo.svg">
+    <link rel="icon" type="image/svg" href="{{ site.baseurl }}/images/logo.svg">
   </head>
 
   <body>
@@ -19,7 +17,7 @@
       <header>
         <a href="{{ site.baseurl }}/">
           <img src="{{ site.baseurl }}/images/logo.svg" alt="{{ site.title }}" class="logo" />
-          <h1>{{ site.title }}</h1>
+          <h1 class="title">{{ site.title }}</h1>
         </a>
       </header>
 
