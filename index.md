@@ -1,10 +1,12 @@
-### Somos a comunidade portuguesa de KeyForge, um jogo de cartas com decks únicos, criado por Richard Garfield.
+### Comunidade portuguesa de KeyForge
 
-### Descobre mais sobre o [KeyForge](https://www.keyforgegame.com) e vem aprender a jogar connosco.
+Somos a comunidade portuguesa de KeyForge, um jogo de cartas com decks únicos, criado por Richard Garfield.
 
-### Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c) e participa nos torneios.
+Descobre mais sobre o [KeyForge](https://www.keyforgegame.com) e vem aprender a jogar connosco.
 
-<br/><br/>
+Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c) e participa nos torneios.
+
+<br/>
 
 ## Conteúdos
 
