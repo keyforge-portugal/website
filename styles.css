@@ -1,0 +1,34 @@
+body {
+  background: #1C0607;
+  color: #FAFAFA;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1.5rem;
+}
+
+a {
+  color: #FAFAFA;
+}
+
+a:hover {
+  transition: color 0.5s ease;
+  color: #FFDA44;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 60px;
+}
+
+h2 {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+.logo {
+  width: 160px;
+}
