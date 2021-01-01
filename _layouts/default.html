@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }} – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }}</title>
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
@@ -17,6 +17,8 @@
       <header>
         <a href="{{ site.baseurl }}/">
           <img src="{{ site.baseurl }}/images/logo.svg" alt="{{ site.title }}" class="logo" />
+        </a>
+        <a href="{{ site.baseurl }}/">
           <h1 class="title">{{ site.title }}</h1>
         </a>
       </header>

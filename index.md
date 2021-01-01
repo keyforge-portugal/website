@@ -1,4 +1,4 @@
-### Comunidade portuguesa de KeyForge
+## Comunidade portuguesa de KeyForge
 
 Somos a comunidade portuguesa de KeyForge, um jogo de cartas com decks únicos, criado por Richard Garfield.
 
@@ -6,12 +6,14 @@ Descobre mais sobre o [KeyForge](https://www.keyforgegame.com) e vem aprender a 
 
 Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c) e participa nos torneios.
 
-<br/>
+---
 
 ## Conteúdos
 
 - [Jogos ao vivo](https://www.youtube.com/watch?v=VjnZmTFKLag&list=PLvNLUPruJbcAw6Q5Fbp2_MZxhblExojer)
 - [Unboxings de Decks](https://www.youtube.com/watch?v=Y1uP6ukgraU&list=PLvNLUPruJbcCxFAw1M1q5TOc_7009yFFQ9)
+
+---
 
 ## Equipas
 
@@ -32,14 +34,20 @@ Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c) e participa nos torn
   - Joe Ruffino (JCRuffino)
   - David Morgan-Bradley (davidMB)
 
+---
+
 ## Resultados
 
 - 2019 - Top 4 na UK Vault Tour por Pedro Santos (Batnu)
 - 2020 - Top 4 no KOTE 6 pela equipa BBB
 
+---
+
 ## Torneios
 
 - 2 Janeiro - Online - [Sealed / Age of Ascension / Bo1](https://www.ajogar.com/forum/anuncios/keyforge-sealed-age-of-ascension-online)
+
+---
 
 ## Lojas
 
