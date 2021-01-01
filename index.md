@@ -4,6 +4,8 @@
 
 ### Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c) e participa nos torneios.
 
+<br/><br/>
+
 ## Conteúdos
 
 - [Jogos ao vivo](https://www.youtube.com/watch?v=VjnZmTFKLag&list=PLvNLUPruJbcAw6Q5Fbp2_MZxhblExojer)
@@ -11,19 +13,19 @@
 
 ## Equipas
 
-- Portuguese Generosity
+- **Portuguese Generosity**
   - Hugo Azevedo (JesterHead2688)
   - mashamsmasham
   - charamaneco
-- CR7 Ghosthawks
+- **CR7 Ghosthawks**
   - Daniel Busto (Ban_Solitude)
   - Sacadura (KFPL_JUPITER)
   - Filipe Gonçalves (jfilipeg)
-- The Syndicate
+- **The Syndicate**
   - Duarte Dias (dndias)
   - Diogo Guimarães (diogocpg)
   - João Neto (kidmanxdx)
-- BBB
+- **BBB**
   - Pedro Santos (Batnu)
   - Joe Ruffino (JCRuffino)
   - David Morgan-Bradley (davidMB)
