@@ -63,4 +63,5 @@ Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c) e participa nos torn
 
 - [Arena](https://arenaporto.com) (Porto)
 - [Divercentro](https://www.diver.pt) (Coimbra)
+- [Gameplay](https://gameplay.pt) (Lisboa)
 - [Versus Gamecenter](https://versusgamecenter.pt) (Lisboa)
