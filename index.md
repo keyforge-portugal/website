@@ -61,5 +61,6 @@ Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c) e participa nos torn
 
 ### Venda apenas
 
+- [Arena](https://arenaporto.com) (Porto)
 - [Divercentro](https://www.diver.pt) (Coimbra)
 - [Versus Gamecenter](https://versusgamecenter.pt) (Lisboa)
