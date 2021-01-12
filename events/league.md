@@ -27,7 +27,7 @@ Distribuição do prizepool será anunciada após o processo de inscrição.
 4. Jogadores devem submeter o deck (fazer upload no DoK da foto do archon card e enhancements) que vão utilizar na liga antes do inicio da mesma.
 5. O SAS contabilizado será aquele que constar no DoK no momento de inscrição da liga.
 6. São permitidos espectadores.
-7. Durante a liga devem anunciar no discord sempre que se realizar um jogo- “Exemplo: “kidmanxdx vs kidmanuxdx hoje às 23/ a começar agora” 
+7. Durante a liga devem anunciar no discord sempre que se realizar um jogo. Exemplo: “kidmanxdx vs kidmanuxdx hoje às 23/ a começar agora” 
 8. O manual mode pode ser utilizado desde que justificado antes do seu pedido e aceite pelo oponente.
 9. Na eventualidade de haver alguma situação de haver disputa por alguma situação durante o jogo, por erro de implementação do TCO, os dois jogadores podem chegar a acordo para resolver o problema com o manual mode. Caso não cheguem a um consenso, a implementação do TCO é que prevalece
 10. Regras sujeitas a qualquer atualização considerada relevante e necessária. 
