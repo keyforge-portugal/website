@@ -48,7 +48,7 @@ Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c) e participa nos torn
 
 ## Torneios
 
-- 16 Janeiro - Online - [Keyforge PT League](http://keyforge.pt/league) 🆕
+- 16 Janeiro - Online - [Keyforge PT League](events/league) 🆕
 - 2 Janeiro - Online - [Sealed / Age of Ascension / Bo1](https://www.ajogar.com/forum/anuncios/keyforge-sealed-age-of-ascension-online)
 - 1 Janeiro - Online - [Chainbound / Archon / 70 SAS Max / Bo1](https://www.facebook.com/events/509656530011806)
 
