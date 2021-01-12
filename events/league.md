@@ -1,8 +1,6 @@
-title: Keyforge PT League
+## Keyforge PT League
 
 ![Keyforge PT League](league.jpg)
-
-## Keyforge PT League
 
 ### Formato
 
