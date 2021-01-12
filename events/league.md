@@ -1,3 +1,5 @@
+title: Keyforge PT League
+
 ![Keyforge PT League](league.jpg)
 
 ## Keyforge PT League
@@ -31,3 +33,5 @@ Distribuição do prizepool será anunciada após o processo de inscrição.
 8. O manual mode pode ser utilizado desde que justificado antes do seu pedido e aceite pelo oponente.
 9. Na eventualidade de haver alguma situação de haver disputa por alguma situação durante o jogo, por erro de implementação do TCO, os dois jogadores podem chegar a acordo para resolver o problema com o manual mode. Caso não cheguem a um consenso, a implementação do TCO é que prevalece
 10. Regras sujeitas a qualquer atualização considerada relevante e necessária. 
+
+### 👉 [Inscrições](https://docs.google.com/forms/d/e/1FAIpQLSeDMXKuvAMteUqxG-giIBG2r8ZqDjYDYmkXd--jgj4X2PgoeQ/viewform?usp=send_form)
