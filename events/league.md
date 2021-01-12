@@ -4,7 +4,7 @@ title: Keyforge PT League
 
 ## Keyforge PT League
 
-### Formato:
+### Formato
 
 4 grupos round robin que apuram 2 jogadores para a fase a eliminar (top 8). Dependendo do nº de inscritos podem ser aumentados para top16. 
 
