@@ -46,11 +46,20 @@ Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c) e participa nos torn
 
 ---
 
-## Torneios
+## Torneios Nacionais
 
 - 16 Janeiro - Online - [Keyforge PT League](events/league.html) 🆕
+- 16 Janeiro - Online - [Archon / Short Adaptive](https://www.facebook.com/events/407058697018690/) 🆕
 - 2 Janeiro - Online - [Sealed / Age of Ascension / Bo1](https://www.ajogar.com/forum/anuncios/keyforge-sealed-age-of-ascension-online)
 - 1 Janeiro - Online - [Chainbound / Archon / 70 SAS Max / Bo1](https://www.facebook.com/events/509656530011806)
+
+---
+
+## Torneios Internacionais
+
+- 9 Fevereiro - Online - [KOTE 8](https://docs.google.com/forms/d/e/1FAIpQLSeeXvRGFJKT52n2uiGpPJ7ojMwU3iDombDg3tRmtsbtx15GGA/viewform) 🆕
+- 8 Fevereiro - Online - [Nordic Online League](https://docs.google.com/document/d/1y_S1ooDgCUe0q6zHEp3Nvp1Rchnp6iG3qHpgVWSRzYA/edit#heading=h.13g1okxoegrl) 🆕
+- 16/23 Janeiro - Online - [KeyForge Premier League Season 2 Qualifiers](https://www.crazykillingmachinenetwork.co.uk/post/the-keyforge-premier-league-season-2-qualifiers-are-here) 🆕
 
 ---
 
