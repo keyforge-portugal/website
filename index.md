@@ -75,4 +75,5 @@ Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c) e participa nos torn
 - [Divercentro](https://www.diver.pt) (Coimbra)
 - [Gameplay](https://gameplay.pt) (Lisboa)
 - [Jogonamesa](https://jogonamesa.pt) (Lisboa)
+- [Magus](https://www.facebook.com/magusportugal/) (Famalicão)
 - [Versus Gamecenter](https://versusgamecenter.pt) (Lisboa)
