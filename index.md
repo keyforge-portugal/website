@@ -36,6 +36,11 @@ Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c) e participa nos torn
   - Pedro Santos (Batnu)
   - Joe Ruffino (JCRuffino)
   - David Morgan-Bradley (davidMB)
+  
+- **Æmberminium**
+  - Filipe Gonçalves (jfilipeg)
+  - Sérgio Santos (sdsantos)
+  - Manuel Vicente (MAPDVS)
 
 ---
 
@@ -49,7 +54,7 @@ Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c) e participa nos torn
 ## Torneios Nacionais
 
 - 16 Janeiro - Online - [Keyforge PT League](events/league.html) 🆕
-- 16 Janeiro - Online - [Archon / Short Adaptive](https://www.facebook.com/events/407058697018690/) 🆕
+- 16 Janeiro - Online - [Archon / Short Adaptive](https://www.facebook.com/events/407058697018690/)
 - 2 Janeiro - Online - [Sealed / Age of Ascension / Bo1](https://www.ajogar.com/forum/anuncios/keyforge-sealed-age-of-ascension-online)
 - 1 Janeiro - Online - [Chainbound / Archon / 70 SAS Max / Bo1](https://www.facebook.com/events/509656530011806)
 
