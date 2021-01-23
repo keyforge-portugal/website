@@ -37,7 +37,7 @@ Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c) e participa nos torn
   - Joe Ruffino (JCRuffino)
   - David Morgan-Bradley (davidMB)
   
-- **Æmberminium**
+- **[Æmberminium](https://twitter.com/mberminium)**
   - Filipe Gonçalves (jfilipeg)
   - Sérgio Santos (sdsantos)
   - Manuel Vicente (MAPDVS)
