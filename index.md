@@ -46,7 +46,7 @@ Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c) e participa nos torn
 
 ## Resultados
 
-- 2020 - João Neto (Kidmanxdx) na Keyforge Premier League Season 2
+- 2021 - João Neto (Kidmanxdx) e Filipe Gonçalves (jfilipeg) na Keyforge Premier League - Season 2
 - 2020 - Top 4 no KOTE 6 pela equipa BBB
 - 2019 - Top 4 na UK Vault Tour por Pedro Santos (Batnu)
 
