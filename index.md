@@ -17,17 +17,12 @@ Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c) e participa nos torn
 
 ## Equipas
 
-- **Portuguese Generosity**
+- **Iberian Generosity**
   - Hugo Azevedo (JesterHead2688)
-  - mashamsmasham
   - charamaneco
+  - rashka
 
-- **CR7 Ghosthawks**
-  - Daniel Busto (Ban_Solitude)
-  - Sacadura (KFPL_JUPITER)
-  - Filipe Gonçalves (jfilipeg)
-
-- **The Syndicate**
+- **Crazy Killing Aubergine**
   - Duarte Dias (dndias)
   - Diogo Guimarães (diogocpg)
   - João Neto (kidmanxdx)
@@ -41,6 +36,11 @@ Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c) e participa nos torn
   - Filipe Gonçalves (jfilipeg)
   - Sérgio Santos (sdsantos)
   - Manuel Vicente (MAPDVS)
+  
+- **Alpha Pendular**
+  - André Ribeiro (DrewRibs)
+  - Mónica (monpah)
+  - Jorge Vasquez (Vasquez)
 
 ---
 
@@ -63,6 +63,7 @@ Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c) e participa nos torn
 
 ## Torneios Internacionais
 
+- 13 Março - Online - [The Final Swindle "The Big One"](https://www.thefinalswindle.com)
 - 9 Fevereiro - Online - [KOTE 8](https://docs.google.com/forms/d/e/1FAIpQLSeeXvRGFJKT52n2uiGpPJ7ojMwU3iDombDg3tRmtsbtx15GGA/viewform) 🆕
 - 8 Fevereiro - Online - [Nordic Online League](https://docs.google.com/document/d/1y_S1ooDgCUe0q6zHEp3Nvp1Rchnp6iG3qHpgVWSRzYA/edit#heading=h.13g1okxoegrl) 🆕
 - 16/23 Janeiro - Online - [KeyForge Premier League Season 2 Qualifiers](https://www.crazykillingmachinenetwork.co.uk/post/the-keyforge-premier-league-season-2-qualifiers-are-here) 🆕
