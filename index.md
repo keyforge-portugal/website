@@ -46,28 +46,11 @@ Junta-te à nossa [comunidade](https://discord.gg/tmZWy86c) e participa nos torn
 
 ## Resultados
 
+- 2021 - Filipe Gonçalves (jfilipeg) ficou em 2º lugar na Keyforge Premier League 2
 - 2021 - Filipe Gonçalves (jfilipeg) ganhou a "200 sascap Triad" organizada pela Timeshapers
 - 2021 - João Neto (Kidmanxdx) e Filipe Gonçalves (jfilipeg) na Keyforge Premier League - Season 2
 - 2020 - Top 4 no KOTE 6 pela equipa BBB
 - 2019 - Top 4 na UK Vault Tour por Pedro Santos (Batnu)
-
----
-
-## Torneios Nacionais
-
-- 16 Janeiro - Online - [Keyforge PT League](events/league.html) 🆕
-- 16 Janeiro - Online - [Archon / Short Adaptive](https://www.facebook.com/events/407058697018690/)
-- 2 Janeiro - Online - [Sealed / Age of Ascension / Bo1](https://www.ajogar.com/forum/anuncios/keyforge-sealed-age-of-ascension-online)
-- 1 Janeiro - Online - [Chainbound / Archon / 70 SAS Max / Bo1](https://www.facebook.com/events/509656530011806)
-
----
-
-## Torneios Internacionais
-
-- 13 Março - Online - [The Final Swindle "The Big One"](https://www.thefinalswindle.com)
-- 9 Fevereiro - Online - [KOTE 8](https://docs.google.com/forms/d/e/1FAIpQLSeeXvRGFJKT52n2uiGpPJ7ojMwU3iDombDg3tRmtsbtx15GGA/viewform) 🆕
-- 8 Fevereiro - Online - [Nordic Online League](https://docs.google.com/document/d/1y_S1ooDgCUe0q6zHEp3Nvp1Rchnp6iG3qHpgVWSRzYA/edit#heading=h.13g1okxoegrl) 🆕
-- 16/23 Janeiro - Online - [KeyForge Premier League Season 2 Qualifiers](https://www.crazykillingmachinenetwork.co.uk/post/the-keyforge-premier-league-season-2-qualifiers-are-here) 🆕
 
 ---
 
